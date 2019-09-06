@@ -1,0 +1,11 @@
+[package]
+name = "roman"
+version = "1.0.0"
+authors = ["Ray Britton <raybritton@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0"
+publish = false
+
+[dependencies]
+strum = "0.15.0"
+strum_macros = "0.15.0"
