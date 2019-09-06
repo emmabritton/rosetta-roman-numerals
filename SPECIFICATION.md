@@ -26,6 +26,7 @@ Then the program should print `Numerals: [numerals]`.
 
 ## Roman Numeral values
 
+```
 I = 1
 V = 5
 X = 10
@@ -33,13 +34,16 @@ L = 50
 C = 100
 D = 500
 M = 1000
+```
 
 Numerals are read left to right, if the numeral to the right of the current one is higher then it is added to a running total, if it is lower then the running total is subtracted from the next numeral and the result becomes the new running total:
 
+```
 II = 2
 IV = 4
 VI = 6
 XXL = 30
+```
 
 [More info at wikipedia](https://en.wikipedia.org/wiki/Roman_numerals)
 
