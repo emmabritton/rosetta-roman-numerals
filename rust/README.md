@@ -5,6 +5,7 @@
 ### Command line
 
 Run this command from the `rust` directory
+
 `cargo run`
 
 ### IntelliJ
@@ -19,6 +20,7 @@ Run as normal:
 ### Command line
 
 Run this command from the `rust` directory
+
 `cargo test`
 
 ### Intellij
