@@ -5,8 +5,11 @@
 ### Command line
 
 Run this command from the `kotlin-jvm` directory
+
 `./gradlew shadowJar`
+
 Then run 
+
 `java -jar builds/lib/roman-1.0.0-all.jar`
 
 ### IntelliJ
@@ -21,6 +24,7 @@ Run as normal:
 ### Command line
 
 Run this command from the `kotlin-jvm` directory
+
 `./gradlew test`
 
 ### Intellij
