@@ -1,6 +1,6 @@
 ## Rosetta Code - Roman Numerals
 
-This is a simple Roman Numeral converter program written in several languages for educational purpose. The code is not designed to be the best but rather to to be easily readable and understood.
+This is a simple Roman Numeral converter program written in several languages for educational purposes. The code is not designed to be the best but rather to to be easily readable and understood by each implementation being as similar as possible to each other.
 
 ## How to use
 
